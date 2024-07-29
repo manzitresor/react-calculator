@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <div className="h-screen w-96 bg-orange-400 mx-auto my-5">
+      <div className="h-screen w-96 shadow-2xl mx-auto my-5">
       <Calculate/>
     </div>
     </>
